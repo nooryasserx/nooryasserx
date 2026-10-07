@@ -6,7 +6,7 @@ I design and build production software across SaaS, AI and retrieval systems, AP
 
 `Noor Yasser` and `نور ياسر` are the names I use professionally; `@nooryasserx` is my primary GitHub identity.
 
-[Website](https://nooryasser.com) · [Projects](https://nooryasser.com/projects/) · [Technical writing](https://nooryasser.com/articles/) · [LinkedIn](https://www.linkedin.com/in/nooryasserx) · [Email](mailto:contact@nooryasser.com)
+[Website](https://nooryasser.com) · [Projects](https://nooryasser.com/projects/) · [Technical writing](https://nooryasser.com/articles/) · [Medium](https://nooryasserx.medium.com/) · [LinkedIn](https://www.linkedin.com/in/nooryasserx) · [Email](mailto:contact@nooryasser.com)
 
 ## What I build
 
